@@ -10,6 +10,4 @@ public class ControlTemperaturaApplication {
 		SpringApplication.run(ControlTemperaturaApplication.class, args);
 	}
 
-
-
 }
